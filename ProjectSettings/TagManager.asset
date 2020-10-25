@@ -5,8 +5,8 @@ TagManager:
   serializedVersion: 2
   tags:
   - Desk
-  - Obstacle
-  - Target
+  - Balls
+  - Greg
   layers:
   - Default
   - TransparentFX
